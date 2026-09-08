@@ -32,7 +32,11 @@ Alur UI: UI → ViewModel → Repository → Remote/Local Data Source.
 4. Jalankan aplikasi pada emulator atau perangkat nyata.
 
 ## Screenshots
-TBD - Tambahkan screenshot List, Detail, Live Search, dan Favorites jika sudah dijalankan di perangkat/emulator.
+<img width="250" height="500" alt="Screenshot_20260908_113247" src="https://github.com/user-attachments/assets/c062fa65-6f93-44ee-adbb-04f9e6089d1b" />
+<img width="250" height="500" alt="Screenshot_20260908_113308" src="https://github.com/user-attachments/assets/4d4941f7-30da-4eff-9afd-fd519e543aba" />
+<img width="250" height="500" alt="Screenshot_20260908_113320" src="https://github.com/user-attachments/assets/9945a47f-3c0c-4178-94da-82dbbbd7da3d" />
+
+
 
 ## Build APK
 Jalankan perintah ini pada root folder untuk membuat APK:
