@@ -1,0 +1,2 @@
+-keep class com.netflixkw.core.data.remote.response.** { *; }
+-keep class com.netflixkw.core.data.local.entity.** { *; }
